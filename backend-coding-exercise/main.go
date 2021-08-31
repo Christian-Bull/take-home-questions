@@ -54,3 +54,8 @@ func rotateChars(s string, input int) string {
 
 // #3 If you could change 1 thing about your favorite
 // framework/language/platform (pick one), what would it be?
+//
+// Python:
+// Better native support for multithreading/concurency. Currently there's a few
+// libraries that achieve this such as concurrent.futures, but they have their
+// limitations and often don't offer much of a performance improvement.
